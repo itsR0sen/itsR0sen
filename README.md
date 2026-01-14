@@ -3,10 +3,9 @@
 <div align="center">
 <h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <i>&lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;</i>!</h1>
   <img src="https://raw.githubusercontent.com/itsR0sen/itsR0sen/main/profile.jpg" 
-     width="160" 
-     height="160" 
-     alt="profile" 
-     style="border-radius:50%; display:block; margin:auto; border:4px solid #EBD601; box-shadow:0 0 20px rgba(235,214,1,0.5);" />
+     width="200" 
+     height="200" 
+     alt="profile"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1000&pause=2000&color=8F1B5E&center=true&vCenter=true&width=700&height=100&lines=I'm+R0sen;Software+Engineer+|+Problem+Solver;Machine+Learning+Enthusiast;Building+Tools+with+Purpose" alt="Typing SVG" />
 </div>
