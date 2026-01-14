@@ -8,7 +8,7 @@
      alt="profile" 
      style="border-radius:50%; display:block; margin:auto; border:4px solid #EBD601; box-shadow:0 0 20px rgba(235,214,1,0.5);" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8F1B5E&center=true&vCenter=true&width=700&height=100&lines=I'm+R0sen;Software+Engineer+|+Problem+Solver;Machine+Learning+Enthusiast;Building+Tools+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1000&pause=1000&color=8F1B5E&center=true&vCenter=true&width=700&height=100&lines=I'm+R0sen;Software+Engineer+|+Problem+Solver;Machine+Learning+Enthusiast;Building+Tools+with+Purpose" alt="Typing SVG" />
 </div>
 
 <div align="center">
