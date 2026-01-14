@@ -9,7 +9,7 @@
      style="border-radius:50%; display:block; margin:auto; border:4px solid #EBD601; box-shadow:0 0 20px rgba(235,214,1,0.5);" />
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8F1B5E&center=true&vCenter=true&width=700&height=100&lines=Rosen+(itsR0sen)+👨‍💻;Software+Engineer+|+Algorithm+Solver;Building+Tools+with+Purpose" alt="Typing SVG" align="center" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=8F1B5E&center=true&vCenter=true&width=700&height=100&lines=Rosen+(itsR0sen)+👨‍💻;Software+Engineer+|+Algorithm+Solver;Building+Tools+with+Purpose" alt="Typing SVG" align="center" />
 
 
 <div align="center">
