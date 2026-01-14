@@ -2,7 +2,7 @@
 <!-- GitHub Profile README — itsR0sen                          -->
 <!-- ========================================================= -->
 
-<style>
+<!-- <style>
   :root {
     --primary-gold: #EBD601;
     --primary-purple: #8F1B5E;
@@ -89,7 +89,7 @@
     transform: scale(1.2) rotate(5deg);
     box-shadow: 0 0 15px rgba(235, 214, 1, 0.4);
   }
-</style>
+</style> -->
 
 <div align="center">
   <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! </h2>
