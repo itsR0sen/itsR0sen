@@ -3,8 +3,8 @@
 <div align="center">
 <h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <i>&lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;</i>!</h1>
   <img src="https://raw.githubusercontent.com/itsR0sen/itsR0sen/main/profile.jpg" 
-     width="200" 
-     height="200" 
+     width="300" 
+     height="300" 
      alt="profile"/>
   <br/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1000&pause=2000&color=8F1B5E&center=true&vCenter=true&width=700&height=100&lines=I'm+R0sen;Software+Engineer+|+Problem+Solver;Machine+Learning+Enthusiast;Building+Tools+with+Purpose" alt="Typing SVG" />
@@ -25,6 +25,10 @@
     <img src="https://img.shields.io/badge/Codeforces-itsR0sen-FF5733?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
   </a>
   &nbsp;
+  <a href="https://leetcode.com/u/itsR0sen/">
+  <img src="https://img.shields.io/badge/LeetCode-itsR0sen-F79F1F?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+</a>
+  &nbsp;
   <a href="https://atcoder.jp/users/itsR0sen">
     <img src="https://img.shields.io/badge/AtCoder-itsR0sen-EBD601?style=flat-square&logo=atcoder&logoColor=000" alt="AtCoder" />
   </a>
@@ -32,7 +36,7 @@
 
 ---
 
-### 👨🏻‍💻 &nbsp;About Me
+### 📚 &nbsp;About Me
 
 I am **Mosharof Rosen**, a Software Engineering undergraduate at **Shahjalal University of Science and Technology (SUST)**. My academic focus spans core areas of computer science, including **data structures**, **algorithms**, and **efficient software design**, where I strive to balance theoretical rigor with practical implementation.
 
@@ -52,25 +56,37 @@ Professionally, I approach software engineering with discipline and curiosity, a
 ## 🛠️ Tech Stack
 
 <div align="center">
-
+  
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=c&logoColor=00599C)
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/-Java-05122A?style=for-the-badge&logo=java&logoColor=FF0000)
+
 ![Python](https://img.shields.io/badge/-Python-05122A?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=for-the-badge&logo=NumPy&logoColor=013243)
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=for-the-badge&logo=pandas&logoColor=150458)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=for-the-badge&logo=Matplotlib&logoColor=11557C)
+
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5&logoColor=E34C26)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=for-the-badge&logo=php&logoColor=8892BE)
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 
-![SFML](https://img.shields.io/badge/-SFML-05122A?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Chrome Extension](https://img.shields.io/badge/-Chrome%20Extensions-05122A?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Chrome Extension](https://img.shields.io/badge/-Chrome%20Extensions-05122A?style=for-the-badge&logo=googlechrome&logoColor=4285F4)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 
-![Algorithms](https://img.shields.io/badge/-Algorithms-05122A?style=for-the-badge&logo=molecule&logoColor=FFFFFF)
-![Data Structures](https://img.shields.io/badge/-Data%20Structures-05122A?style=for-the-badge&logo=database&logoColor=FFFFFF)
+![Algorithms](https://img.shields.io/badge/Algorithms-05122A?style=for-the-badge&logo=adobe-illustrator&logoColor=FFFFFF)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-05122A?style=for-the-badge&logo=database&logoColor=FFFFFF)
+![Dynamic Programming](https://img.shields.io/badge/Dynamic%20Programming-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)
+![Graph Theory](https://img.shields.io/badge/Graph%20Theory-05122A?style=for-the-badge&logo=mercurial&logoColor=FFFFFF)
+![Greedy](https://img.shields.io/badge/Greedy-05122A?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Recursion](https://img.shields.io/badge/Recursion-05122A?style=for-the-badge&logo=recursive&logoColor=FFFFFF)
+![Bit Manipulation](https://img.shields.io/badge/Bit%20Manipulation-05122A?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![Mathematics](https://img.shields.io/badge/Mathematics-05122A?style=for-the-badge&logo=wolfram-mathematica&logoColor=FFFFFF)
 ![System Design](https://img.shields.io/badge/-System%20Design-05122A?style=for-the-badge&logo=windows&logoColor=FFFFFF)
-![Game Development](https://img.shields.io/badge/-Game%20Dev-05122A?style=for-the-badge&logo=unity&logoColor=FFFFFF)
 ![Performance Optimization](https://img.shields.io/badge/-Performance%20Opt-05122A?style=for-the-badge&logo=speedtest&logoColor=FFFFFF)
 
 </div>
@@ -79,12 +95,12 @@ Professionally, I approach software engineering with discipline and curiosity, a
 
 ## 🚀 Currently Working On
 
-- 🎮 Expanding game development with interactive physics engines  
-- 🔧 Building smarter problem recommendation systems  
-- 📊 Exploring system design patterns and optimization techniques  
-- 🌐 Collaborating on open-source tool development  
-- 💡 Learning advanced algorithm techniques and optimizations  
-- 🚀 Developing high-performance solutions for competitive programming
+-  Expanding game development with interactive physics engines  
+-  Building smarter problem recommendation systems  
+-  Exploring system design patterns and optimization techniques  
+-  Collaborating on open-source tool development  
+-  Learning advanced algorithm techniques and optimizations  
+-  Developing high-performance solutions for competitive programming
 
 ---
 
@@ -105,18 +121,7 @@ Eliminates decision overhead with intelligent problem selection based on skill l
 Fast-paced jumping game with smooth physics, progressive difficulty, and retro aesthetic.
 
 🔗 [View Repo](https://github.com/itsR0sen/Doodle-Jump)
-
 ---
-
-### 🛠️ Extensions
-**Chrome Extensions Collection for Developer Productivity**
-
-A curated suite of browser extensions for improving workflows.
-
-🔗 [View Repo](https://github.com/itsR0sen/Extensions)
-
----
-
 ### 📚 Cofffee-Shop
 **Development Projects Collection**
 
@@ -143,11 +148,11 @@ My approach to problem-solving is systematic and disciplined:
 ```
 
 **Key Principles:**
-- 🎯 **Clarity Over Cleverness** — Code should explain itself
-- ⚡ **Performance Matters** — But only optimize what matters
-- 🧩 **Reusability** — Build components, not scripts
-- 🔍 **Attention to Detail** — Edge cases define quality
-- 📚 **Continuous Learning** — Every problem teaches something new
+-  **Clarity Over Cleverness** — Code should explain itself
+-  **Performance Matters** — But only optimize what matters
+-  **Reusability** — Build components, not scripts
+-  **Attention to Detail** — Edge cases define quality
+-  **Continuous Learning** — Every problem teaches something new
 
 ## 📈 GitHub Analytics & Stats
 
@@ -212,11 +217,11 @@ My approach to problem-solving is systematic and disciplined:
 
 **From Problem Solver to Tool Builder:**
 
-- 🌱 Started with competitive programming fundamentals
-- 📚 Built deep algorithmic knowledge through consistent practice
-- 🔧 Transitioned to tool development to automate and optimize workflows
-- 🏗️ Now focused on **system design** and **scalable architecture**
-- 🎮 Expanding into game development with real-time physics
+-  Started with competitive programming fundamentals
+-  Built deep algorithmic knowledge through consistent practice
+-  Transitioned to tool development to automate and optimize workflows
+-  Now focused on **system design** and **scalable architecture**
+-  Expanding into game development with real-time physics
 
 Each project represents a step in understanding how great software is built—with **purpose**, **performance**, and **users in mind**.
 
@@ -234,7 +239,7 @@ Each project represents a step in understanding how great software is built—wi
 ---
 
 <div align="center">
-  <h3>😄 Can Connect With Me On</h3>
+  <h3> Connect With Me On</h3>
 </div>
 
 <div align="center">
@@ -261,16 +266,6 @@ Each project represents a step in understanding how great software is built—wi
 
 ---
 
-<div align="center">
-  <h3>📍 Profile Visitor Count</h3>
-</div>
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/itsR0sen/count.svg" alt="Visitor Count" />
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
@@ -282,7 +277,7 @@ Each project represents a step in understanding how great software is built—wi
 <div align="center">
   <br>
   <p>"The best code is not the most clever—it's the code that solves the problem most elegantly."</p>
-  <p><sub><b>Made with ❤️ by Rosen | Last Updated: January 2026</b></sub></p>
+  <p><sub><b>Made with LOVE by Rosen | Last Updated: January 2026</b></sub></p>
 </div>
 
 ---
