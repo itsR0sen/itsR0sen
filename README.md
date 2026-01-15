@@ -7,7 +7,7 @@
      height="300" 
      alt="profile"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1000&pause=2000&color=8F1B5E&center=true&vCenter=true&width=700&height=100&lines=I'm+R0sen;Software+Engineer+|+Problem+Solver;Machine+Learning+Enthusiast;Building+Tools+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1000&pause=2000&color=E80B91FF&center=true&vCenter=true&width=700&height=100&lines=I'm+R0sen;Software+Engineer+|+Problem+Solver;Machine+Learning+Enthusiast;Building+Tools+with+Purpose" alt="Typing SVG" />
 </div>
 
 <div align="center">
