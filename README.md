@@ -1,13 +1,12 @@
 
-
 <div align="center">
-<h1>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <i>&lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;</i>!</h1>
+<h2>𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <i>&lt;𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/&gt;</i>!</h2>
   <img src="https://raw.githubusercontent.com/itsR0sen/itsR0sen/main/profile.jpg" 
      width="300" 
      height="300" 
      alt="profile"/>
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=1000&pause=2000&color=E80B91FF&center=true&vCenter=true&width=700&height=100&lines=I'm+R0sen;Software+Engineer+|+Problem+Solver;Machine+Learning+Enthusiast;Building+Tools+with+Purpose" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Scope+One&size=32&duration=1000&pause=2000&color=bc0d70&center=true&vCenter=true&width=700&height=100&lines=I'm+R0sen;Software+Engineer+|+Problem+Solver;Machine+Learning+Enthusiast;Building+Tools+with+Purpose" alt="Typing SVG" />
 </div>
 
 <div align="center">
